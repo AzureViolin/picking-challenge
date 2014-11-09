@@ -1,0 +1,29 @@
+#Swap files
+*~
+.~
+*.swp
+thumbs.db
+
+#C object files
+*.o
+*.obj
+*.lib
+*.so
+*.dll
+*.exe
+
+#Python 
+*.pyc
+*.pyo
+
+build/
+dist/
+bin
+.installed.cfg
+dist
+parts
+lib
+lib64
+develop-eggs
+eggs
+downloads
